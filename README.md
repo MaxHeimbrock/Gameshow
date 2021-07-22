@@ -17,13 +17,13 @@ Score up: K\
 Score down: L
 
 # Rounds
-Wer ist das?
-Hausmarke vs. Markenprodukt
-Lieder rückwärts raten
-Wer weiß mehr?
-Malen
-Markenlogo raten
-Maulsperren
+Wer ist das?\
+Hausmarke vs. Markenprodukt\
+Lieder rückwärts raten\
+Wer weiß mehr?\
+Malen\
+Markenlogo raten\
+Maulsperren\
 Schieß los!
 
 # Screenshots

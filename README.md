@@ -15,3 +15,19 @@ Team 2 (blue) -> use wireless mouse as buzzer\
 Buzzer: right mouse\
 Score up: K\
 Score down: L
+
+# Rounds
+Wer ist das?
+Hausmarke vs. Markenprodukt
+Lieder rückwärts raten
+Wer weiß mehr?
+Malen
+Markenlogo raten
+Maulsperren
+Schieß los!
+
+# Screenshots
+<a href="#"><img src="Screenshots/InUnity.PNG"/>
+<a href="#"><img src="Screenshots/GameshowScore.png"/>
+<a href="#"><img src="Screenshots/MarkenRaten.png"/>
+<a href="#"><img src="Screenshots/WerIstDas.png"/>

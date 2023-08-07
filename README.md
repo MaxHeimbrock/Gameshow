@@ -27,6 +27,7 @@ Maulsperren\
 Schieß los!
 
 # Screenshots
+<a href="#"><img src="Screenshots/ezgif-2-28a182f9d0.gif"/>
 <a href="#"><img src="Screenshots/InUnity.PNG"/>
 <a href="#"><img src="Screenshots/GameshowScore.png"/>
 <a href="#"><img src="Screenshots/MarkenRaten.png"/>
